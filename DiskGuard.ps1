@@ -1,4 +1,4 @@
-﻿﻿#Requires -Version 5.1
+﻿﻿﻿﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
     DiskGuard - 坏盘（SSD / HDD）安全隔离与只读导出辅助工具。
